@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab1_android</string>
+    <string name="choose">Choose your hero</string>
+
+    <string name="name1">Spider Man</string>
+    <string name="name2">Halk</string>
+    <string name="name3">Captain America</string>
+    <string name="name4">Ironman</string>
+    <string name="name5">Tor</string>
+
+</resources>
